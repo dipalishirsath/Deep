@@ -1,6 +1,10 @@
 
 public class Demo 
 {
+	public void m4()
+	{
+	System.out.println("Git is amazing tool ");
+	
 	public void m3()
 	{
 	System.out.println("out from Git");
