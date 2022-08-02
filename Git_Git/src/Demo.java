@@ -17,5 +17,8 @@ public class Demo
 	{
 	System.out.println("HELLO DEEEP");
 	}
-
+	public void m1()
+	{
+	System.out.println("HELLO DEEEP");
+	}
 }
