@@ -17,4 +17,11 @@ public class Demo
 	{
 	System.out.println("HELLO DEEEP");
 	}
+	public static void main(String args [])
+	{
+	 Demo d = new Demo();
+		d.m1();
+	}
+	
+
 }
